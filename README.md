@@ -1,4 +1,4 @@
-# CPU/GPU Based Prover for zkSync Era
+# CPU/GPU Based Prover for zkSync Era 
 
 [![Logo](eraLogo.png)](https://zksync.io/)
 
